@@ -14,6 +14,7 @@
   "author": "Ricardo Andrés Calvo",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "^11.3.2",
+    "mysql": "^2.18.1"
   }
 }

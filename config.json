@@ -1,3 +1,10 @@
 {
-    "BOT_TOKEN": "Nzk1MzQ1ODgwMjU2ODcyNDY5.X_IBkg.KIwJKx97ymnnnyEXjx76umHDp5A"
+    "BOT_TOKEN": "Nzk1MzQ1ODgwMjU2ODcyNDY5.X_IBkg.KIwJKx97ymnnnyEXjx76umHDp5A",
+    "DATA":
+        {
+            "HOST": "127.0.0.1",
+            "DATABASE": "joker_bot",
+            "USER": "app",
+            "PASSWORD": "MyApp123"
+        }
 }
